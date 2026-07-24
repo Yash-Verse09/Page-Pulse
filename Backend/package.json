@@ -1,0 +1,19 @@
+{
+  "name": "page-pulse-backend",
+  "version": "1.0.0",
+  "description": "Simple Express backend for Page Pulse URL auditing tool",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}

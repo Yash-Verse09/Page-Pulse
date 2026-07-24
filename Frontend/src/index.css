@@ -1,0 +1,29 @@
+/* index.css */
+/* Global styles for the Page Pulse application */
+
+/* Fonts: Space Grotesk for display headings, Inter for body text,
+   JetBrains Mono for data/metric values (fits an analytics tool) */
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500;600&display=swap");
+
+/* Reset default browser margins and use a consistent box model */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Make sure the app can take up the full height of the screen */
+html,
+body,
+#root {
+  height: 100%;
+}
+
+/* Clean, readable font stack and base background/text color */
+body {
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  background-color: #f7f8fc;
+  color: #12131a;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
