@@ -16,7 +16,13 @@ Built as part of the **Digital Heroes Software Development Engineer (SDE) Traini
 
 ---
 
-## 🌐 [Live Demo](https://page-pulse-phi-nine.vercel.app)
+<div align="center">
+
+# 🌐 <a href="https://page-pulse-phi-nine.vercel.app">Live Demo</a>
+
+🚀 Click above to experience Page Pulse live
+
+</div>
 
 
 # ✨ Features
