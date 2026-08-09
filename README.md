@@ -596,15 +596,8 @@ Possible improvements:
 
 BCA Final Year Student at ITM University
 
-Aspiring Software Engineer | Web Developer | Tech Enthusiast
+Aspiring Software Developer | Full Stack Developer | Tech Enthusiast
 
 
 ---
 
-# 📜 Credit
-
-Built for Digital Heroes Training Task
-
-Website:
-
-https://digitalheroesco.com
