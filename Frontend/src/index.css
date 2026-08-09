@@ -1,9 +1,9 @@
 /* index.css */
 /* Global styles for the Page Pulse application */
 
-/* Fonts: Space Grotesk for display headings, Inter for body text,
-   JetBrains Mono for data/metric values (fits an analytics tool) */
-@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500;600&display=swap");
+/* Fonts: Plus Jakarta Sans for display headings (distinct, premium feel),
+   Inter for body text, JetBrains Mono for data/metric values */
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700;800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500;600&display=swap");
 
 /* Reset default browser margins and use a consistent box model */
 * {
@@ -19,11 +19,13 @@ body,
   height: 100%;
 }
 
-/* Clean, readable font stack and base background/text color */
+/* Clean, readable font stack and base background/text color.
+   Page Pulse uses a dark "control room" theme - deep navy background
+   with light text, matching a technical diagnostics product. */
 body {
   font-family: "Inter", Arial, Helvetica, sans-serif;
-  background-color: #f7f8fc;
-  color: #12131a;
+  background-color: #0a0c12;
+  color: #f1f3f9;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
