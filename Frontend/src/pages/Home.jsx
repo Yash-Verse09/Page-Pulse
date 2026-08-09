@@ -47,7 +47,7 @@ function Home() {
 
     try {
       // Existing backend API - unchanged
-      const response = await axios.post("http://localhost:5000/api/audit", {
+      const response = await axios.post("/api/audit", {
         url: url.trim(),
       });
 
