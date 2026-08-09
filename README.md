@@ -16,15 +16,14 @@ Built as part of the **Digital Heroes Software Development Engineer (SDE) Traini
 
 ---
 
-# 🌐 Live Demo
+<div align="center">
 
-(Add your deployed frontend URL here)
+# 🌐 <a href="https://page-pulse-phi-nine.vercel.app">Live Demo</a>
 
-```
-https://your-live-url.com
-```
+🚀 Click above to experience Page Pulse live
 
----
+</div>
+
 
 # ✨ Features
 
@@ -597,15 +596,6 @@ Possible improvements:
 
 BCA Final Year Student at ITM University
 
-Aspiring Software Engineer | Web Developer | Tech Enthusiast
+Aspiring Software Developer | Full Stack Developer | Tech Enthusiast
 
 
----
-
-# 📜 Credit
-
-Built for Digital Heroes Training Task
-
-Website:
-
-https://digitalheroesco.com
